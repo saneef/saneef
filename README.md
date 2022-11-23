@@ -8,4 +8,3 @@
 
 [![Website](https://img.shields.io/badge/website-saneef.com-8f6e37?style=for-the-badge)](https://saneef.com)
 [![Mastodon](https://img.shields.io/badge/mastodon-%40saneef-6364ff?style=for-the-badge)]([https://twitter.com/saneef](https://mastodon.social/@saneef))
-[![Twitter](https://img.shields.io/badge/twitter-%40saneef-1d9bf0?style=for-the-badge)](https://twitter.com/saneef)
