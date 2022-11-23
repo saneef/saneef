@@ -7,4 +7,4 @@
 ---
 
 [![Website](https://img.shields.io/badge/website-saneef.com-8f6e37?style=for-the-badge)](https://saneef.com)
-[![Mastodon](https://img.shields.io/badge/mastodon-%40saneef-6364ff?style=for-the-badge)](https://mastodon.social/@saneef) 
+[![Mastodon](https://img.shields.io/badge/mastodon-%40saneef-6364ff?style=for-the-badge)](http://front-end.social/@saneef) 
