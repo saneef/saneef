@@ -11,9 +11,7 @@
 <br />
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=saneef)
-<br />
-![Joel's trophies](https://github-profile-trophy.vercel.app/?username=saneef&column=5&margin-w=7&margin-h=7)
-</details>
+</details>a
 
 ---
 
