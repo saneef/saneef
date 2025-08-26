@@ -11,8 +11,7 @@
 <br />
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=saneef)
-</details>a
-
+</details>
 ---
 
 [![Website](https://img.shields.io/badge/website-saneef.com-8f6e37?style=for-the-badge)](https://saneef.com)
